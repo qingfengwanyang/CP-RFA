@@ -33,7 +33,7 @@ On LFW, authorized recovery identity similarity is **0.958** and PSNR reaches **
 <p align="center">
   <img src="docs/qualitative.png" width="100%"/>
 </p>
-<p align="center"><em>Fig. 2. Anonymized faces and authorized recoveries on public datasets (from the paper).</em></p>
+<p align="center"><em>Fig. 2. Qualitative anonymization comparison. Each row is one dataset; columns are Original, FIT, RiDDLE, G²Face, iFADIT, CIAGAN, DeepPrivacy2 and CP-RFA.(from the paper).</em></p>
 
 ## Installation
 
