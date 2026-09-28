@@ -7,7 +7,7 @@
 > Xizang Minzu University, Jinan University<br>
 > [*Journal of Information Security and Applications*](https://www.sciencedirect.com/journal/journal-of-information-security-and-applications) (under review)
 
-This repository is the official code of **CP-RFA**. The GitHub repository is named [`CS-RFA`](https://github.com/qingfengwanyang/CS-RFA) (the URL used in the paper).
+This repository is the official code of **CP-RFA**. The GitHub repository is named [`CP-RFA`](https://github.com/qingfengwanyang/CP-RFA) (the URL used in the paper).
 
 ## News
 
@@ -40,8 +40,8 @@ On LFW, authorized recovery identity similarity is **0.958** and PSNR reaches **
 Python 3.8+ is required. A GPU is recommended. **InsightFace must be ≥ 0.7.3** (0.2.x is not compatible).
 
 ```bash
-git clone https://github.com/qingfengwanyang/CS-RFA.git
-cd CS-RFA
+git clone https://github.com/qingfengwanyang/CP-RFA.git
+cd CP-RFA
 pip install -r requirements.txt
 ```
 
