@@ -1,0 +1,9 @@
+torch>=1.9
+torchvision>=0.10
+opencv-python>=4.5
+numpy>=1.19
+Pillow>=8.0
+tqdm>=4.60
+insightface>=0.7.3
+onnxruntime-gpu>=1.16.0; platform_system != "Darwin"
+onnxruntime>=1.16.0

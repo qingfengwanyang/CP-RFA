@@ -1,0 +1,24 @@
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.idea/
+.vscode/
+.venv/
+venv/
+*.egg-info/
+
+runs/
+results/
+logs/
+
+# Third-party weights (download locally; do not commit)
+checkpoints/hyperswap/*.onnx
+checkpoints/insightface/models/
+!checkpoints/insightface/models/.gitkeep
+!checkpoints/hyperswap/.gitkeep
+
+*.jpg
+*.jpeg
+*.png
+*.rec
+!docs/**
