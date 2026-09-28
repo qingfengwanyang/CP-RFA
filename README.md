@@ -7,7 +7,7 @@
 > Xizang Minzu University, Jinan University<br>
 > [*Journal of Information Security and Applications*](https://www.sciencedirect.com/journal/journal-of-information-security-and-applications) (under review)
 
-This repository is the official code of **CP-RFA**. The GitHub repository is named [`CP-RFA`](https://github.com/qingfengwanyang/CP-RFA) (the URL used in the paper).
+This repository is the official PyTorch implementation of **CP-RFA**. 
 
 ## News
 
